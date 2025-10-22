@@ -1,0 +1,10 @@
+0 Lemon
+1 Orange
+2 Calamansi
+3 Pomelo
+4 Kumquat
+5 Buddha's Han...
+6 Mandarin
+7 Finger Lime
+8 Kaffir Lime
+9 Grapefruit
