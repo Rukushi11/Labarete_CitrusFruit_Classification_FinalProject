@@ -95,8 +95,6 @@ Prediction results, including confidence scores and class probabilities, are sto
 - Integrated using a custom `CitrusClassifier` abstraction  
 
 ---
-
- 📸 Application Screenshots
 📸 Application Screenshots
 
 🏠 Home & Image Capture  
@@ -106,13 +104,14 @@ Prediction results, including confidence scores and class probabilities, are sto
 <img src="screenshots/result.jpg" alt="Prediction Result" width="300"/>
 
 📊 Analytics Dashboard
-<img src="screenshots/analytics1.jpg" alt="Analytics Dashboard" width="300"/>
-<img src="screenshots/analytics2.jpg" alt="Analytics Dashboard" width="300"/>
-<img src="screenshots/analytics3.jpg" alt="Analytics Dashboard" width="300"/>
+<div style="display: flex; gap: 10px;">
+  <img src="screenshots/analytics1.jpg" alt="Analytics Dashboard 1" width="300"/>
+  <img src="screenshots/analytics2.jpg" alt="Analytics Dashboard 2" width="300"/>
+  <img src="screenshots/analytics3.jpg" alt="Analytics Dashboard 3" width="300"/>
+</div>
 
 🗂 Scan Logs
 <img src="screenshots/logs.jpg" alt="Scan Logs" width="300"/>
-
 
 ---
 
