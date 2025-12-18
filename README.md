@@ -26,8 +26,6 @@ https://github.com/Rukushi11/Labarete_CitrusFruit_Classification_FinalProject
 
 🧠 Classification Categories
 
-🧠 Classification Categories
-
 | No. | Citrus Fruit  | Class Description                                                                  | Sample Image                     |
 | --: | ------------- | ---------------------------------------------------------------------------------- | -------------------------------- |
 |   1 | Lemon         | Yellow citrus fruit with an oval shape and smooth to lightly textured peel         | <img src="classes/Lemon.jpg" width="100"/>           |
@@ -108,7 +106,9 @@ Prediction results, including confidence scores and class probabilities, are sto
 <img src="screenshots/result.jpg" alt="Prediction Result" width="300"/>
 
 📊 Analytics Dashboard
-<img src="screenshots/analytics.jpg" alt="Analytics Dashboard" width="300"/>
+<img src="screenshots/analytics1.jpg" alt="Analytics Dashboard" width="300"/>
+<img src="screenshots/analytics2.jpg" alt="Analytics Dashboard" width="300"/>
+<img src="screenshots/analytics3.jpg" alt="Analytics Dashboard" width="300"/>
 
 🗂 Scan Logs
 <img src="screenshots/logs.jpg" alt="Scan Logs" width="300"/>
@@ -123,18 +123,17 @@ This project was developed to:
 - Demonstrate the application of **machine learning in mobile platforms**
 - Utilize **on-device inference** for real-time classification
 - Implement **cloud-based analytics** using Firebase Firestore
-- Design a clean and responsive **Flutter UI/UX**
 - Integrate machine learning, mobile UI, and cloud storage into a unified system
 
 ---
 
  🧪 Proposed Enhancements
 
-- Offline scan caching and synchronization  
 - Exportable analytics (CSV format)  
 - Comparative evaluation of model accuracy  
 - Dark mode UI support  
-- Web-based administrative analytics dashboard  
+- Web-based administrative analytics dashboard
+- Better UI/UX and animation 
 
 ---
 
