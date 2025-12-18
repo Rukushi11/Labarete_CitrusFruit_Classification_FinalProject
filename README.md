@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Platform-Flutter-blue?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-TFLite-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Database-Firebase-yellow?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -16,7 +15,7 @@
 
 ---
 
-👨‍🎓 Researcher / Developer
+👨‍🎓Developer
 **Vergel Labarete**  
 Bachelor of Science in Information Technology (Student)
 
@@ -27,18 +26,21 @@ https://github.com/Rukushi11/Labarete_CitrusFruit_Classification_FinalProject
 
 🧠 Classification Categories
 
+🧠 Classification Categories
+
 | No. | Citrus Fruit  | Class Description                                                                  | Sample Image                     |
 | --: | ------------- | ---------------------------------------------------------------------------------- | -------------------------------- |
-|   1 | Lemon         | Yellow citrus fruit with an oval shape and smooth to lightly textured peel         | ![](classes/Lemon.jpg)           |
-|   2 | Orange        | Round citrus fruit with bright orange skin and moderate surface texture            | ![](classes/Orange.jpg)          |
-|   3 | Grapefruit    | Large citrus fruit with pale orange to pinkish rind and thick peel                 | ![](classes/Grapefruit.jpeg)     |
-|   4 | Mandarin      | Small, flattened citrus fruit with loose, thin orange peel                         | ![](classes/Mandarin.jpeg)       |
-|   5 | Kaffir Lime   | Green citrus fruit with a highly bumpy and wrinkled rind                           | ![](classes/Kaffir%20Lime.jpg)   |
-|   6 | Calamansi     | Small citrus fruit, green to orange when ripe, commonly used in Philippine cuisine | ![](classes/Calamansi.jpg)       |
-|   7 | Finger Lime   | Elongated, cylindrical citrus fruit with textured outer skin                       | ![](classes/Finger%20Lime.jpeg)  |
-|   8 | Buddha's Hand | Bright yellow citrus fruit with finger-like segmented lobes                        | ![](classes/Buddha_s%20Hand.jpg) |
-|   9 | Pomelo        | Very large citrus fruit with thick rind and pale green to yellow skin              | ![](classes/Pomelo.jpg)          |
-|  10 | Kumquat       | Small oval citrus fruit with smooth orange skin, typically eaten whole             | ![](classes/Kumquat.jpg)         |
+|   1 | Lemon         | Yellow citrus fruit with an oval shape and smooth to lightly textured peel         | <img src="classes/Lemon.jpg" width="100"/>           |
+|   2 | Orange        | Round citrus fruit with bright orange skin and moderate surface texture            | <img src="classes/Orange.jpg" width="100"/>          |
+|   3 | Grapefruit    | Large citrus fruit with pale orange to pinkish rind and thick peel                 | <img src="classes/Grapefruit.jpeg" width="100"/>     |
+|   4 | Mandarin      | Small, flattened citrus fruit with loose, thin orange peel                         | <img src="classes/Mandarin.jpeg" width="100"/>       |
+|   5 | Kaffir Lime   | Green citrus fruit with a highly bumpy and wrinkled rind                           | <img src="classes/Kaffir%20Lime.jpg" width="100"/>   |
+|   6 | Calamansi     | Small citrus fruit, green to orange when ripe, commonly used in Philippine cuisine | <img src="classes/Calamansi.jpg" width="100"/>       |
+|   7 | Finger Lime   | Elongated, cylindrical citrus fruit with textured outer skin                       | <img src="classes/Finger%20Lime.jpeg" width="100"/>  |
+|   8 | Buddha's Hand | Bright yellow citrus fruit with finger-like segmented lobes                        | <img src="classes/Buddha_s%20Hand.jpg" width="100"/> |
+|   9 | Pomelo        | Very large citrus fruit with thick rind and pale green to yellow skin              | <img src="classes/Pomelo.jpg" width="100"/>          |
+|  10 | Kumquat       | Small oval citrus fruit with smooth orange skin, typically eaten whole             | <img src="classes/Kumquat.jpg" width="100"/>         |
+
 
 ---
 
@@ -80,13 +82,8 @@ Prediction results, including confidence scores and class probabilities, are sto
  ☁ Firebase Cloud Integration
 - All scan data stored in **Firestore**  
 - Real-time synchronization for analytics and logs  
-- Scalable and flat Firestore data structure:
-Labarete_CitrusFruit
-└── documentID
-├── Classtype
-├── confidence
-├── scores
-└── Time
+- Scalable and flat Firestore data structure:  
+`Labarete_CitrusFruit → documentID → { Classtype, confidence, scores, Time }`
 
 
 ---
@@ -102,20 +99,20 @@ Labarete_CitrusFruit
 ---
 
  📸 Application Screenshots
+📸 Application Screenshots
 
-> *(Replace image filenames with your actual screenshots)*
-
- 🏠 Home & Image Capture
-![Home Screen](screenshots/home.jpg)
+🏠 Home & Image Capture  
+<img src="screenshots/home.jpg" alt="Home Screen" width="300"/>
 
 ### 🔍 Prediction Result
-![Prediction Result](screenshots/result.jpg)
+<img src="screenshots/result.jpg" alt="Prediction Result" width="300"/>
 
- 📊 Analytics Dashboard
-![Analytics Dashboard](screenshots/analytics.jpg)
+📊 Analytics Dashboard
+<img src="screenshots/analytics.jpg" alt="Analytics Dashboard" width="300"/>
 
- 🗂 Scan Logs
-![Scan Logs](screenshots/logs.jpg)
+🗂 Scan Logs
+<img src="screenshots/logs.jpg" alt="Scan Logs" width="300"/>
+
 
 ---
 
@@ -144,11 +141,11 @@ This project was developed to:
  📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VergelLabarete&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rukushi11&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VergelLabarete&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukushi11&layout=compact"/>
 </p>
 
 ---
