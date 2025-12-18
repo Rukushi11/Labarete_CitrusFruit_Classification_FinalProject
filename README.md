@@ -111,7 +111,9 @@ Prediction results, including confidence scores and class probabilities, are sto
 </div>
 
 🗂 Scan Logs
-<img src="screenshots/logs.jpg" alt="Scan Logs" width="300"/>
+<div style="margin-top: 10px;">
+  <img src="screenshots/logs.jpg" alt="Scan Logs" width="300"/>
+</div>
 
 ---
 
